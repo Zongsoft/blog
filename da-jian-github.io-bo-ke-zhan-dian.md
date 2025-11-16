@@ -19,13 +19,14 @@ icon: flatbread-stuffed
 
 * 我喜欢的一款主题 (**Archer**)
 
-> [http://firework.studio/archer-demo/](http://firework.studio/archer-demo/) [https://github.com/fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer)
+> - [http://firework.studio/archer-demo](http://firework.studio/archer-demo/)
+> - [https://github.com/fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer)
 
 ### 建站步骤
 
 有关一般建站步骤，请参考本文后面的“参考文章”部分，在进行后续操作之前，请按照 Hexo 官网的安装指引，确保 NodeJS 和 Hexo 已经成功安装。
 
-友情提示：在此之前请务必详读 Hexo 官网中的[文档](https://hexo.io/zh-cn/docs/index.html)。
+_友情提示：_&#x5728;此之前请务必详读 **H**exo 官网中的[文档](https://hexo.io/zh-cn/docs/index.html)。
 
 我们的站点源码：[https://github.com/Zongsoft/zongsoft.github.io](https://github.com/Zongsoft/zongsoft.github.io)，没必要把 Hexo 运行环境和使用的主题文件都保存在站点仓库中，所以需要将这些不需要的目录和文件加入到 **.gitignore** 文件中；站点的 Hexo 基本配置(_hexo.config.yml_)和相应主题配置文件(_hexo.config-theme.archer_)需要保留，以便下次或别人构建时将其覆盖还原为默认配置。
 
